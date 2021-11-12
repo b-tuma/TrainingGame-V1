@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 432838d1e78187d498f70edc6dbc2721
+timeCreated: 1443118398
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - incompleteSprite: {instanceID: 0}
+  - message: {instanceID: 0}
+  - unlockedClip: {fileID: 8300000, guid: a28969e602399c848bc3e65540f11a3f, type: 3}
+  - lockedClip: {fileID: 8300000, guid: ba6f0bd93b96988498f0d3d614524e91, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
